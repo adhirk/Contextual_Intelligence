@@ -2,6 +2,8 @@
   - [ ] Exploring Unsupervised Machine Learning
   - [ ] Upload final project to Synapse when all tasks are complete :tada:
 
+              **************************************************************************************************************************************
+
 Topic: 
 
 Navigating the Future: Contextual Ad Targeting as the New Frontier in Privacy-Compliant Advertising
@@ -29,6 +31,8 @@ Cookie depreciation or lack of user tracking tools can have huge impact at the i
 
 
 Dataset:
+
+For this project, I have selected "News Category Dataset" dataset from Kaggle which contains around 210k news headlines from 2012 to 2022 published in HuffPost. This is one of the biggest news datasets and can serve as a benchmark for a variety of computational linguistic tasks. HuffPost stopped maintaining an extensive archive of news articles sometime after this dataset was first collected in 2018, so it is not possible to collect such a dataset in the present day. Due to changes in the website, there are about 200k headlines between 2012 and May 2018 and 10k headlines between May 2018 and 2022.
 
 
 Data Dictionary:
