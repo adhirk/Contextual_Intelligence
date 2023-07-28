@@ -21,7 +21,7 @@ Advertisers, Publishers, and Customers will be impacted when cookies and mobile 
 
 The Big Idea:  
 
-What if there is a way to understand/classify the content that the user is interacting? This signal can then be capitalized to serve ads effectively, especially in a world where there is no personal identifiers (cookies, Mobile IDs). Example: A user browsing through articles on travel is most likely going to make that trip and it would only make sense to show ads relevant travel ads next to those articles. Iceland Air Ad is displayed next to travel article.
+What if there is a way to understand/classify the content that the user is interacting? This signal can then be capitalized to serve ads effectively, especially in a world where there is no personal identifiers (cookies, Mobile IDs). Example: A user browsing through articles on travel is most likely going to make that trip and it would only make sense to show ads relevant travel ads next to those articles. 
 
 
 The Impact: 
