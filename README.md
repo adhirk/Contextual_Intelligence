@@ -57,7 +57,7 @@ For this project, I have selected "News Category Dataset" dataset from [Kaggle](
 
 There are about 9% missing data in the `short description` and 18% in `author`.
 
-![pct_missing_rows](Images/percent_missing.png)
+![pct_missing_rows](Images/percent_missing.jpg)
 
 Here is the graph showing the number of missing short description by category:
 
@@ -121,7 +121,7 @@ Test score: 33.4%
 ## Classification report for the best model so far:
 
 TF-IDF using custom tokenizer resulted in the test accuracy score of 46.7% <br>
-![Class_report](Images/Classification_score_tfidf_custom_tokenizer.png)
+![Class_report](Images/Classification_score_tfidf_custom_tokenizer.jpg)
 
 
 ## Advanced Modeling:
