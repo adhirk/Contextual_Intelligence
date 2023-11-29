@@ -227,7 +227,6 @@ wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webcolors==1.13
 webencodings==0.5.1
 websocket-client @ file:///C:/ci_310/websocket-client_1642093970919/work
-Werkzeug==2.3.7
 Whoosh==2.7.4
 win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
 wincertstore==0.2
