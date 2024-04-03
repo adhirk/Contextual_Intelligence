@@ -15,7 +15,7 @@ backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_l
 backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
 backports.weakref==1.0.post1
 beautifulsoup4 @ file:///C:/b/abs_0agyz1wsr4/croot/beautifulsoup4-split_1681493048687/work
-black==23.3.0
+black==24.3.0
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 blinker==1.6.2
 boltons @ file:///C:/b/abs_707eo7c09t/croot/boltons_1677628723117/work
