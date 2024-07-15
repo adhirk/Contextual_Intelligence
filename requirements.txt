@@ -122,7 +122,6 @@ nbclient @ file:///C:/ci/nbclient_1650308592199/work
 nbconvert @ file:///C:/b/abs_4av3q4okro/croot/nbconvert_1668450658054/work
 nbformat @ file:///C:/b/abs_85_3g7dkt4/croot/nbformat_1670352343720/work
 nest-asyncio @ file:///C:/b/abs_3a_4jsjlqu/croot/nest-asyncio_1672387322800/work
-nltk==3.8.1
 notebook @ file:///C:/b/abs_49d8mc_lpe/croot/notebook_1681756182078/work
 notebook_shim @ file:///C:/b/abs_ebfczttg6x/croot/notebook-shim_1668160590914/work
 numexpr @ file:///C:/b/abs_afm0oewmmt/croot/numexpr_1683221839116/work
